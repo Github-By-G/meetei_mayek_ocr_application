@@ -3,8 +3,8 @@
 
 ## 👥 Authors
 
-- [**Vishwaksena Vishnu Simha Dingari**](https://www.linkedin.com/in/vishwaksena-dingari)
 - [**Ganapathi Kosanam**](https://www.linkedin.com/in/kosanam-ganapathi/)
+- [**Vishwaksena Vishnu Simha Dingari**](https://www.linkedin.com/in/vishwaksena-dingari)
 - [**Chavatapalli Devi Sri Shankar**](https://www.linkedin.com/in/chavatapalli-devi-sri-shankar-b6643b246/)
 - [**Dr. Chingakham Neeta Devi**](https://www.nitmanipur.ac.in/Department_FacultyProfileNew.aspx?nDeptID=oq)
 
